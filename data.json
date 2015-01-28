@@ -1,0 +1,92 @@
+[
+    {
+        "fname": "Tonja",
+        "lname": "Mize",
+        "tel": "(963)784-1098",
+        "address": "3999 Quis Ln",
+        "city": "Sebring",
+        "state": "MI",
+        "zip": 76593
+    },
+    {
+        "fname": "Stella",
+        "lname": "Lester",
+        "tel": "(936)898-2886",
+        "address": "186 Velit Ln",
+        "city": "Winter Garden",
+        "state": "NJ",
+        "zip": 97046
+    },
+    {
+        "fname": "Kasey",
+        "lname": "Shobe",
+        "tel": "(308)726-1701",
+        "address": "7521 Et Ave",
+        "city": "Wabash",
+        "state": "DE",
+        "zip": 89612
+    },
+    {
+        "fname": "Farzana",
+        "lname": "Bachmeier",
+        "tel": "(416)421-3363",
+        "address": "1643 Pulvinar Dr",
+        "city": "Berkeley",
+        "state": "SD",
+        "zip": 31512
+    },
+    {
+        "fname": "Mir",
+        "lname": "Palterman",
+        "tel": "(322)818-9059",
+        "address": "5515 Risus St",
+        "city": "Seven Mile",
+        "state": "CO",
+        "zip": 21318
+    },
+    {
+        "fname": "Bridgett",
+        "lname": "Volz",
+        "tel": "(347)789-1311",
+        "address": "4118 Lacus Rd",
+        "city": "Quincy",
+        "state": "ND",
+        "zip": 65060
+    },
+    {
+        "fname": "Morticia",
+        "lname": "Laventure",
+        "tel": "(595)885-5799",
+        "address": "6513 Sed Rd",
+        "city": "Waterford",
+        "state": "CT",
+        "zip": 81487
+    },
+    {
+        "fname": "Andre",
+        "lname": "Brill",
+        "tel": "(228)944-3827",
+        "address": "1391 Scelerisque Ln",
+        "city": "San Antonio",
+        "state": "OH",
+        "zip": 20743
+    },
+    {
+        "fname": "Salman",
+        "lname": "Olsen",
+        "tel": "(618)120-5183",
+        "address": "394 Tincidunt Dr",
+        "city": "Holland",
+        "state": "HI",
+        "zip": 57198
+    },
+    {
+        "fname": "Kasey",
+        "lname": "Barge",
+        "tel": "(859)450-8168",
+        "address": "114 Elementum Ln",
+        "city": "Streamwood",
+        "state": "MA",
+        "zip": 89138
+    }
+]
